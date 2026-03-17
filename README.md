@@ -1,3 +1,4 @@
+
 # Doces Vitrine - Frontend
 
 Projeto frontend para o desafio técnico "Doces Vitrine" consumindo a API oficial.
@@ -34,3 +35,6 @@ O projeto já está configurado para consumir a API oficial fornecida para o des
 - Cadastro, edição, visualização e exclusão de produtos (CRUD completo)
 - Upload de imagens em dois passos (upload da imagem → associação do `file_id` ao produto)
 - Notificações visuais de ações do sistema
+
+# doces-vitrine
+Projeto frontend Doces Vitrine desenvolvido para desafio técnico Knex.
